@@ -1,0 +1,8 @@
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\bin\Debug\BelajarPBOCsharp.exe.config
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\bin\Debug\BelajarPBOCsharp.exe
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\bin\Debug\BelajarPBOCsharp.pdb
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\obj\Debug\BelajarPBOCsharp.csproj.AssemblyReference.cache
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\obj\Debug\BelajarPBOCsharp.csproj.SuggestedBindingRedirects.cache
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\obj\Debug\BelajarPBOCsharp.csproj.CoreCompileInputs.cache
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\obj\Debug\BelajarPBOCsharp.exe
+D:\Aktivitasku\Source Code\PBO C#\BelajarPBOCsharp\BelajarPBOCsharp\obj\Debug\BelajarPBOCsharp.pdb
